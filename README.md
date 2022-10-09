@@ -3,18 +3,18 @@
 Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu Brother!!
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="https://telegra.ph/file/37df69a78afb6e010282d.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://i.ibb.co/86cGStD/1.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">ElainaBOT - MD</h1>
+<h1 align="center">Ciel BOT - MD</h1>
 <p align="center">
-  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/MiyaZb"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Elaina+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
  <a href="#"><img title="ElainaBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ImYanXiao"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ImYanXiao-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MiyaZb"><img title="Author" src="https://img.shields.io/badge/AUTHOR-CIEL-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
@@ -22,10 +22,10 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
 ---------
 
 ## ```Connect With Me 📞``` 
-  <a href="https://wa.me/6285736178354">
+  <a href="https://wa.me/6281364440831">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/Xiao_yan_21">
+  <a href="https://instagram.com/ciel_company99">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:yanxiao021@gmail.com">
@@ -33,7 +33,7 @@ Script ini gratis untuk semua orang, bukan untuk Dijual. Jika dijual neraka menu
   </a> &nbsp;&nbsp;
 ---------
 
-## ```Whatsapp``` <a href="https://wa.me/6285736178354"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+## ```Whatsapp``` <a href="https://wa.me/6281364440831"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281231079387) 
 ---------
 
@@ -87,8 +87,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-$ cd Elaina-MultiDevice
+$ git clone https://github.com/MiyaZb/ciel-v1
+$ cd ciel-v1
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -130,8 +130,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
+git clone https://github.com/MiyaZb/ciel-v1
+cd ciel-v1
 npm install
 npm update
 ```
@@ -240,7 +240,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/ImYanXiao)
+* [`Allah SWT`](https://github.com/miyazb)
 * [`My parents`](https://github.com/ImYanXiao)
 * [`All Friends`](https://github.com/ImYanXiao)
 * [`All Contributors`](https://github.com/ImYanXiao)
@@ -253,4 +253,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
 ## ```Recode By ✏️```
-[![ImYanXiao](https://github.com/ImYanXiao.png?size=70)](https://github.com/ImYanXiao)
+[![ImYanXiao](https://github.com/MiyaZb.png?size=70)](https://i.ibb.co/86cGStD/1.jpg)
